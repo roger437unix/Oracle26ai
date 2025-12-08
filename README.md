@@ -1,2 +1,2 @@
-![](https://www.oracle.com/a/pr/img/og-social-database-26ai-1200x1200.jpg)
+![](https://oracle-base.com/blog/wp-content/uploads/2025/10/26ai.png)
 # Oracle26ai
