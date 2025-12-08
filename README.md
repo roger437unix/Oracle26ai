@@ -1,2 +1,2 @@
-![](https://www.wiadvance.com/upload/catalog_m/ALL_catalog_22E26_1CnCC5Tnv2.png)
+![](https://cdn.prod.website-files.com/687b2d16145b3601a227c560/68d2b6055d7738a074a09b1c_68ce86d2bcfa8779bbed58b6_66fa8e9cd68f1164af6b0c71_AD_4nXef9EW8u8UNbk0AY-5CZaQllqXAkrwzyr7dKRRTA3QBBKkItgBuLKQh3Fn6WcVrN2lbQZmBofsze-cRL-ycnSGONYAZdUdP2C1AdKndJsGg_H__W8ts6Lf1cOs7tqjNnercDzAx_NW_3kfkLkL3KnI2Kz4.png)
 # Oracle26ai
