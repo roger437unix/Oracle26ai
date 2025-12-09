@@ -65,6 +65,8 @@ INSERT INTO cursos (id_curso, titulo, carga_horaria) VALUES (50, 'Business Intel
  
 -- -----------------------------------------------------------------------------
 
+-- Tabela Matriculas
+
 INSERT INTO matriculas VALUES (1001, 5, TO_DATE('20-10-2025', 'DD-MM-YYYY'));
 INSERT INTO matriculas VALUES (1002, 45, TO_DATE('20-10-2025', 'DD-MM-YYYY'));
 
