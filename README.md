@@ -1,2 +1,2 @@
-![](https://www.wiadvance.com/upload/catalog_m/ALL_catalog_22E26_1CnCC5Tnv2.png)
+![](https://www.oracle.com/a/ocom/img/rc61-dbmsguru-logo-clr.png)
 # Oracle26ai
